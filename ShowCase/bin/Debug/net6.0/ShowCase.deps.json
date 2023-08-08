@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v6.0": {
       "ShowCase/1.0.0": {
         "dependencies": {
-          "ClassLibrary1": "1.0.0"
+          "StringLibrary": "1.0.0"
         },
         "runtime": {
           "ShowCase.dll": {}
         }
       },
-      "ClassLibrary1/1.0.0": {
+      "StringLibrary/1.0.0": {
         "runtime": {
           "ClassLibrary1.dll": {}
         }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ClassLibrary1/1.0.0": {
+    "StringLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

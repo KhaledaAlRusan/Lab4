@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public static class Class1
+    public static class StringLibrary
     {
         public static bool StartsWithUpper(this string str)
         {
